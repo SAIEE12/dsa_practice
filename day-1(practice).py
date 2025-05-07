@@ -163,4 +163,14 @@ print("------------------")
 # 6. ternary operator (conditional expression)
 
 
+a = 17
+
+if a < 18:
+    print("You are not eligible to vote.")
+elif a == 18:
+    print("You are eligible to vote.")
+else:
+    print("You are eligible to vote.")
+print("------------------")
+
 
